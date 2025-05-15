@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: password-strength-analyzer
-    env: python
-    buildCommand: ""
-    startCommand: python app.py
